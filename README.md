@@ -1,4 +1,5 @@
 hi i'm maybejam  
-currently taking APCSA and formerly took APCSP  
-MaybeJam#5553 on Discord  
+previously taken AP CSA/CS Principles
+alumni of MIT MITES 2023
+MaybeJam on Discord 
 learning Java, Python and C#
